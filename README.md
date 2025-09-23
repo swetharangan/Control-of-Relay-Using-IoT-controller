@@ -1,4 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
+#NAME:  swetha R
+#REG NO: 212223040221
+
+
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
