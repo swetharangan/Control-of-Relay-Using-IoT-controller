@@ -45,28 +45,25 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 ```
 void setup() {
   pinMode(7,OUTPUT);
-  
-
 }
 
 void loop() {
   digitalWrite(7,HIGH);
-  delay(2000);
+  delay(3000);
   digitalWrite(7,LOW);
   delay(1000);
-  
-
-}
+} 
 ```
 
 ## CIRCUIT DIAGRAM:
 
-<img width="659" height="571" alt="Screenshot 2025-09-23 214548" src="https://github.com/user-attachments/assets/18cd3cd8-90f5-4147-a907-ac3f44c35b88" />
+<img width="892" height="616" alt="image" src="https://github.com/user-attachments/assets/0b48d822-d7f1-4936-84a7-65e4bd83d43b" />
 
 
 ## OUTPUT:
-<img width="944" height="505" alt="Screenshot 2025-09-23 214034" src="https://github.com/user-attachments/assets/467c69c0-6adc-4bc3-ba31-7f5d07d315cd" />
-<img width="1154" height="665" alt="Screenshot 2025-09-23 214021" src="https://github.com/user-attachments/assets/60fa7855-3406-4267-9e6e-3fee89e42edf" />
+<img width="1066" height="636" alt="Screenshot 2025-09-24 075709" src="https://github.com/user-attachments/assets/818d1573-9978-4952-aee2-7494344b204e" />
+<img width="1036" height="596" alt="Screenshot 2025-09-24 075653" src="https://github.com/user-attachments/assets/4dbbd6dc-3e22-4bcd-aeb8-1c25c32fc1b0" />
+
 
 
 ## RESULT:
